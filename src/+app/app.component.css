@@ -1,0 +1,38 @@
+/** { padding:0; margin:0; font-family: 'Droid Sans', sans-serif; }*/
+/*#universal { text-align:center; font-weight:bold; padding:15px 0; }*/
+/*nav { background:#158126; min-height:40px; border-bottom:5px #046923 solid; }*/
+/*nav a { font-weight:bold; text-decoration:none; color:#fff; padding:20px; display:inline-block; }*/
+/*nav a:hover { background:#00AF36; }*/
+/*.hero-universal { min-height:500px; display:block; padding:20px; background: url('/assets/logo.png') no-repeat center center; }*/
+/*.inner-hero { background: rgba(255, 255, 255, 0.75); border:5px #ccc solid; padding:25px; }*/
+/*.router-link-active { background-color: #00AF36; }*/
+/*main { padding:20px 0; }*/
+/*pre { font-size:12px; }*/
+h1 {
+  font-size: 1.2em;
+  color: #999;
+  margin-bottom: 0;
+}
+h2 {
+  font-size: 2em;
+  margin-top: 0;
+  padding-top: 0;
+}
+nav a {
+  padding: 5px 10px;
+  text-decoration: none;
+  margin-top: 10px;
+  display: inline-block;
+  background-color: #eee;
+  border-radius: 4px;
+}
+nav a:visited, a:link {
+  color: #607D8B;
+}
+nav a:hover {
+  color: #039be5;
+  background-color: #CFD8DC;
+}
+nav a.active {
+  color: #039be5;
+}
